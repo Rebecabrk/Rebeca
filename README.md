@@ -1,5 +1,5 @@
 # Welcome to my GitHub! (●'◡'●)
-I am Rebeca:
+I am Rebeca: 
 R - Resourceful
 E - Engaging
 B - Bold
