@@ -1,4 +1,4 @@
-# Hi there 👋, welcome to my Git!
+# Hi there 👋, welcome to my GitHub account!
 #### I am Rebeca Costache, a Computer Science student eager to learn new skills and tricks.
 
 Resourceful,
